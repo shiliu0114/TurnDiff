@@ -29,19 +29,19 @@ Current models based on deep learning for low-dose CT denoising rely heavily on 
 </p
   
 <p align="center">
-  <img src="images/3.png" alt="Description of random sampling of contextual projection data" width="800">
+  <img src="images/3.png" alt="Description of random sampling of contextual projection data" width="1000">
   <br>
   <em>Figure 3: Description of random sampling of contextual projection data.</em>
 </p
   
 <p align="center">
-  <img src="images/4.png" alt="unable up- and down-dose generalization strategy" width="800">
+  <img src="images/4.png" alt="unable up- and down-dose generalization strategy" width="1000">
   <br>
   <em>Figure 4: unable up- and down-dose generalization strategy.</em>
 </p
   
 <p align="center">
-  <img src="images/5.png" alt="Visual demonstration of the differences" width="800">
+  <img src="images/5.png" alt="Visual demonstration of the differences" width="1000">
   <br>
   <em>Figure 5: {(a1), (a2)}: noisy images, {(b1), (b2)}: the edges extracted from x_0, and {(c1), (c2)}: the noise level estimated from x.</em>
 </p
