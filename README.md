@@ -16,14 +16,14 @@ Current models based on deep learning for low-dose CT denoising rely heavily on 
 
 ## Related Work
 <p align="center">
-  <img src="images/1.png" alt="Visual demonstration of the differences" width="800">
+  <img src="images/1.png" alt="Visual demonstration of the differences" width="1000">
   <br>
   <em>Figure 1: Visual demonstration of the differences among (a) Noise2Noise, (b) Neighbor2Neighbor, (c) Prompt-SID and (d) TurnDiff.</em>
 </p>
 
 ## Method Overview
 <p align="center">
-  <img src="images/2.png" alt="General Architecture of TurnDiff Training and Inference." width="800">
+  <img src="images/2.png" alt="General Architecture of TurnDiff Training and Inference." width="1000">
   <br>
   <em>Figure 2: General Architecture of TurnDiff Training and Inference. (a) The training of TurnDiff. (b) The inference of TurnDiff.</em>
 </p
