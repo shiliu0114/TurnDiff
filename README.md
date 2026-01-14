@@ -48,47 +48,47 @@ Current models based on deep learning for low-dose CT denoising rely heavily on 
 
 ## Results
 <p align="center">
-  <img src="images/6.png" alt="Qualitative results of a 25% dose CT image from the Mayo dataset. Qualitative assessment against the Mayo 25% dose dataset in the abdomen" width="800">
+  <img src="images/6.png" alt="Qualitative results of a 25% dose CT image from the Mayo dataset. Qualitative assessment against the Mayo 25% dose dataset in the abdomen" width="1000">
   <br>
   <em>Figure 6: Qualitative results of a 25% dose CT image from the Mayo dataset. Qualitative assessment against the Mayo 25% dose dataset in the abdomen. The line graphs show the fit of Noise2Sim, AdaReNet, IPDM, which are similar to the models in this study, to the reference in a column,
 respectively. The display window is [-100,200] HU.</em>
 </p
 
 <p align="center">
-  <img src="images/7.png" alt="Qualitative assessment in the lungs against the Mayo 25% dose dataset." width="800">
+  <img src="images/7.png" alt="Qualitative assessment in the lungs against the Mayo 25% dose dataset." width="1000">
   <br>
   <em>Figure 7: Qualitative assessment in the lungs against the Mayo 25% dose dataset. The blue region of interest is zoomed in to show the difference,and the green and yellow arrows point to lesions with significant disparity. The display window is [-1350, 200] HU.</em>
 </p
 
 <p align="center">
-  <img src="images/8.png" alt="Qualitative assessment against the LIDC-IDRI 25% dose dataset in the abdomen." width="800">
+  <img src="images/8.png" alt="Qualitative assessment against the LIDC-IDRI 25% dose dataset in the abdomen." width="1000">
   <br>
   <em>Figure 8: Qualitative assessment against the LIDC-IDRI 25% dose dataset in the abdomen. The blue region of interest is zoomed in to show the difference, and the green and yellow arrows point to lesions with significant disparity. The display window is [-100,200].</em>
 </p
 
 <p align="center">
-  <img src="images/9.png" alt="Display of results on up and down dose generalization" width="800">
+  <img src="images/9.png" alt="Display of results on up and down dose generalization" width="1000">
   <br>
   <em>Figure 9: Display of results on up and down dose generalization for (a)Reference (b) FBP (c) TV (d) B2U (e) NBR (f) Noiser2Noise (g) PromptSID (h) Noise2Sim (i) AdaReNet (j) IPDM (k) TurnDiff-Up/Down and (l)
 TurnDiff (ours). The display window for abdomen images is [-100, 200]HU and for chest images is [-1350,200] HU</em>
 </p
 
 <p align="center">
-  <img src="images/10.png" alt="Generalized results from real clinical data" width="800">
+  <img src="images/10.png" alt="Generalized results from real clinical data" width="1000">
   <br>
   <em>Figure 10: Generalized results from real clinical data. (a) FBP (b) TV (c) B2U (d) NBR (e) Noiser2Noise (f) Prompt-SID (g) Noise2Sim (h)
 AdaReNet (i) IPDM (j) TurnDiff (ours). The display window is [-100, 200]HU.</em>
 </p
 
 <p align="center">
-  <img src="images/11.png" alt="Ablation studies to verify the effectiveness of two-stage and the importance of similarity enhancement perception." width="800">
+  <img src="images/11.png" alt="Ablation studies to verify the effectiveness of two-stage and the importance of similarity enhancement perception." width="1000">
   <br>
   <em>Figure 11: Ablation studies to verify the effectiveness of two-stage and the importance of similarity enhancement perception. Left: (a) Reference (b)FBP (c) Only projection (d) TurnDiff (ours). Right: (a) Reference (b) FBP
 (c) No enhance (d) TurnDiff (ours). The display window for abdomen images is [-100, 200] HU and for chest images is [-1350,200] HU.</em>
 </p
 
 <p align="center">
-  <img src="images/12.png" alt="Ablation studies on the effectiveness of pixel-level weighted fusion." width="800">
+  <img src="images/12.png" alt="Ablation studies on the effectiveness of pixel-level weighted fusion." width="1000">
   <br>
   <em>Figure 12: Ablation studies on the effectiveness of pixel-level weighted fusion. (a) Reference (b) FBP (c) λ = 0.5 (d) λ = 1 (e) TurnDiff(ours). The display window for abdomen images is [-100, 200] HU.</em>
 </p
